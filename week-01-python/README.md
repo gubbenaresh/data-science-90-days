@@ -27,3 +27,33 @@ I learned how Python stores information using variables and how different types 
 ### Git Commit
 
 Day 1: Python basics and variables
+
+
+
+## Day 2 - Strings, Numbers and Boolean Logic
+
+### Topics Learned
+
+- Strings
+- String concatenation
+- f-strings
+- String methods
+- Arithmetic operators
+- Comparison operators
+- Boolean operators
+
+### Project
+
+Salary Calculator
+
+### Challenge
+
+Customer Eligibility Program
+
+### What I Learned
+
+I learned how to manipulate text, perform calculations and use Boolean expressions to evaluate conditions.
+
+### Git Commit
+
+Day 2: Strings numbers and boolean logic
