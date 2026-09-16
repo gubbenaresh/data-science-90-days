@@ -81,3 +81,26 @@ I learned how to store multiple values using lists and structured information us
 ### Git Commit
 
 Day 3: Lists dictionaries and customer data analysis
+
+## Day 4 - Conditional Logic
+
+### Topics Learned
+
+- if
+- elif
+- else
+- Nested conditions
+- Comparison operators
+- Logical operators
+
+### Project
+
+Employee Bonus Calculator
+
+### What I Learned
+
+I learned how to make decisions in Python using conditional statements.
+
+### Git Commit
+
+Day 4: Conditional logic and employee bonus calculator
