@@ -104,3 +104,25 @@ I learned how to make decisions in Python using conditional statements.
 ### Git Commit
 
 Day 4: Conditional logic and employee bonus calculator
+
+## Day 5 - Loops
+
+### Topics Learned
+
+- for loop
+- while loop
+- range()
+- Looping through lists
+- Conditions inside loops
+
+### Project
+
+Transaction Analyzer
+
+### What I Learned
+
+I learned how loops allow me to process multiple values without repeating the same code manually.
+
+### Git Commit
+
+Day 5: Loops and transaction analyzer
