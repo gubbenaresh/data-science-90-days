@@ -57,3 +57,27 @@ I learned how to manipulate text, perform calculations and use Boolean expressio
 ### Git Commit
 
 Day 2: Strings numbers and boolean logic
+
+## Day 3 - Lists and Dictionaries
+
+### Topics Learned
+
+- Lists
+- Indexing
+- Slicing
+- List methods
+- Dictionaries
+- Keys and values
+- List of dictionaries
+
+### Project
+
+Customer Data Analyzer
+
+### What I Learned
+
+I learned how to store multiple values using lists and structured information using dictionaries.
+
+### Git Commit
+
+Day 3: Lists dictionaries and customer data analysis
