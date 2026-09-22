@@ -126,3 +126,28 @@ I learned how loops allow me to process multiple values without repeating the sa
 ### Git Commit
 
 Day 5: Loops and transaction analyzer
+
+
+## Day 6 - Functions and Imports
+
+### Topics Learned
+
+- Functions
+- Parameters
+- Arguments
+- return
+- Function calls
+- Imports
+- Python modules
+
+### Project
+
+Python Utility Calculator
+
+### What I Learned
+
+I learned how to break a program into reusable functions and how Python modules can provide additional functionality.
+
+### Git Commit
+
+Day 6: Functions and Python modules
