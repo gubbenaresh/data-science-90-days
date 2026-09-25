@@ -1,0 +1,22 @@
+Employee_ID,Name,Age,Department,Salary,Join_Date,City,Email,Temp_Column
+EMP001,Rahul,25,Data Analytics,45000,2023-01-15,Bengaluru,rahul@gmail.com,123
+EMP002,Priya,28,HR,52000,2022-06-20,Hyderabad,priya@gmail.com,456
+EMP003,Amit,24,Data Science,,2023-03-10,Pune,amit@gmail.com,789
+EMP004,Neha,30,Finance,65000,2021-11-05,Mumbai,neha@gmail.com,111
+EMP005,Ravi,,IT,48000,2023-07-12,Chennai,ravi@gmail.com,222
+EMP006,Sneha,27,Data Analytics,55000,,Bengaluru,sneha@gmail.com,333
+EMP007,Arjun,29,Data Science,60000,2022-09-18,Delhi,arjun@gmail.com,444
+EMP008,Meera,26,HR,50000,2023-02-28,Hyderabad,meera@gmail.com,555
+EMP009,Kiran,31,Finance,72000,2020-08-14,Mumbai,,666
+EMP010,Anjali,25,IT,47000,2023-05-22,Pune,anjali@gmail.com,777
+EMP010,Anjali,25,IT,47000,2023-05-22,Pune,anjali@gmail.com,777
+EMP011,Varun,twenty nine,Data Analytics,58000,2022-12-01,Bengaluru,varun@gmail.com,888
+EMP012,Pooja,27,Data Science,62000,2021-10-10,Chennai,pooja@gmail.com,999
+EMP013,Rohit,32,Finance,not available,2019-04-15,Mumbai,rohit@gmail.com,101
+EMP014,Divya,26,HR,51000,2023-06-30,Hyderabad,divya@gmail.com,102
+EMP015,Manoj,23,IT,42000,2024-01-10,Pune,manoj@gmail.com,103
+EMP016,Sanjay,28,Data Analytics,57000,2022-02-29,Bengaluru,sanjay@gmail.com,104
+EMP017,Kavya,27,Data Science,61000,2023-04-05,,kavya@gmail.com,105
+EMP018,Deepak,35,Finance,75000,2020-12-18,Mumbai,deepak@gmail.com,106
+EMP019,Swati,24,HR,49000,2023-08-25,Hyderabad,swati@gmail.com,107
+EMP020,Nikhil,29,IT,53000,2022-07-15,Chennai,nikhil@gmail.com,108
