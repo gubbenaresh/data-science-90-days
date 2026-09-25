@@ -75,3 +75,43 @@ df.select_dtypes(include="datetime")
 
 ### Git Commit
 Day 3: Load and explore CSV dataset
+
+## Day 4 - Filtering and Sorting
+
+### Topics Learned
+- Column selection
+- Row filtering
+- Multiple conditions
+- Sorting
+
+### Business Questions
+1.Products with sales > ₹5,000
+
+df[df['Sales_Amount']>5000]['Product_Category']    # single column 
+df[ df['Sales_Amount']>5000 ][['Product_Category' , 'Sales_Amount']]   # multipal columns 
+
+
+2.Transactions with quantity > 10
+
+df[ df['Quantity_Sold'] > 45 ][['Payment_Method','Quantity_Sold']]
+
+
+3.Top 10 highest-sales transactions
+
+df['Sales_Amount'].sort_values(ascending=False).head(10)
+
+
+4.Customers spending > ₹10,000
+
+df[df['Sales_Amount']>7000][['Customer_Type']]
+
+
+5.Products sorted highest to lowest revenue
+
+df.sort_values('Sales_Amount' , ascending=False)[['Sales_Amount','Product_Category']]
+
+### What I Learned
+understand the sorting filtering how it works and more specifically how to solve the Business Questions
+
+### Git Commit
+Day 4: Pandas filtering and sorting
