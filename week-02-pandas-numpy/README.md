@@ -64,13 +64,13 @@ Duplicates:
 ### What I Learned
 how to deal with missing vlaues and how to deal with different types of data type and to how to fetch pure numerical , categorical and data time columns only and understand that this are features will help in EDA and data cleaning , handling outliers so it importent topic to know it.
 
-# Numerical
+ Numerical
 df.select_dtypes(include="number")
 
-# Categorical/Text
+ Categorical/Text
 df.select_dtypes(include=["object", "category"])
 
-# Date/Time
+ Date/Time
 df.select_dtypes(include="datetime")
 
 ### Git Commit
