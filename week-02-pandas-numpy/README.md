@@ -115,3 +115,29 @@ understand the sorting filtering how it works and more specifically how to solve
 
 ### Git Commit
 Day 4: Pandas filtering and sorting
+
+## Day 5 - Data Cleaning
+
+### Topics Learned
+- Missing values
+- isnull()
+- fillna()
+- dropna()
+- Duplicates
+- duplicated()
+- drop_duplicates()
+- Data types
+- to_numeric()
+- to_datetime()
+
+### Cleaning Performed
+- Handled missing values
+- Removed duplicates
+- Corrected data types
+- Removed unnecessary columns
+
+### What I Learned
+today i got to know what kind of problem that we face during cleaning data and fixed the errors accordingly 
+
+### Git Commit
+Day 5: Data cleaning missing values duplicates and types
