@@ -166,3 +166,21 @@ I learn today that what aggregation and group by and merge how it works i learn 
  
 ### Git Commit
 Day 6: GroupBy aggregations and DataFrame merge
+
+## Day 7 — Sales Data Analysis Project
+
+For the final project, I worked with a sales dataset.
+
+I:
+
+Loaded the sales data
+Checked the dataset
+Cleaned missing and duplicate data
+Corrected data types
+Created calculated columns
+Used groupby() for analysis
+Answered business questions
+Saved the cleaned dataset
+What I Learned
+
+I learned how to take a raw dataset, clean it, analyze it, and get useful information from it using Python, NumPy, and Pandas.
