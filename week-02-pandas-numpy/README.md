@@ -141,3 +141,28 @@ today i got to know what kind of problem that we face during cleaning data and f
 
 ### Git Commit
 Day 5: Data cleaning missing values duplicates and types
+
+## Day 6 - GroupBy, Aggregations and Merge
+
+### Topics Learned
+- sum()
+- mean()
+- min()
+- max()
+- count()
+- groupby()
+- agg()
+- merge()
+
+### Business Analysis
+- Total revenue
+- Revenue by category
+- Revenue by city
+- Top products
+- Customer order analysis
+
+### What I Learned
+I learn today that what aggregation and group by and merge how it works i learn this and also completed the above task
+
+### Git Commit
+Day 6: GroupBy aggregations and DataFrame merge
