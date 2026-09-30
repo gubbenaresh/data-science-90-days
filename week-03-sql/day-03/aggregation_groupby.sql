@@ -89,7 +89,9 @@ ORDER BY Total_Sales DESC;
 -- Task 1
 -- Find the:
 -- Total quantity of products sold.
-select sum(Unit_Price) as Total_Qunatity from Products;
+SELECT
+    SUM(Quantity) AS Total_Quantity
+FROM Sales;
 
 --Task 2
 --Find:
@@ -99,21 +101,16 @@ select count(*) as total_sales_transactions from Sales;
 --Task 3
 --Find:
 --Average quantity per transaction.
-select 
-      Product_ID,
-	  AVG(Unit_Price) as avg__qunatity_per_transaction
-from Products
-group by Product_ID;
+SELECT
+    AVG(Quantity) AS Average_Quantity_Per_Transaction
+FROM Sales;
 
 --Task 4
 --Find:
 --Highest quantity sold in a single transaction.
-select 
-      Product_ID,
-	  MAX(Unit_Price) as Highest_qunatity_sold_single_transaction
-from Products
-group by Product_ID
-order by Highest_qunatity_sold_single_transaction desc;
+SELECT
+    MAX(Quantity) AS Highest_Quantity_Sold_In_Single_Transaction
+FROM Sales;
 
 --Task 5
 --Find:
@@ -159,11 +156,11 @@ group by Customer_ID;
 --Expected:
 --Product_ID
 --Total_Revenue
-select
-     Product_ID ,
-	 SUM(Unit_Price) as Total_Revenue
-from Products
-group by Product_ID;
+SELECT
+    Product_ID,
+    SUM(Sales_Amount) AS Total_Revenue
+FROM Sales
+GROUP BY Product_ID;
 
 --Task 10
 --Find:
@@ -171,11 +168,11 @@ group by Product_ID;
 --Expected:
 --Product_ID
 --Total_Quantity
-select
-     Product_ID ,
-	 count(Quantity) as Total_Quantity
-from Sales
-group by Product_ID;
+SELECT
+    Product_ID,
+    SUM(Quantity) AS Total_Quantity
+FROM Sales
+GROUP BY Product_ID;
 
 
 --Task 11
@@ -184,11 +181,12 @@ group by Product_ID;
 --Expected:
 --Customer_ID
 --Total_Spending
-select 
-      Customer_ID,
-	  sum(Sales_Amount) as total_spending
-from Sales
-group by Customer_ID;
+SELECT 
+    Customer_ID,
+    SUM(Sales_Amount) AS Total_Spending
+FROM Sales
+GROUP BY Customer_ID
+ORDER BY Total_Spending DESC;
 
 
 
