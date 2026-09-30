@@ -40,3 +40,48 @@
 ### Status
 
 ✅ Day 1 completed
+
+## Day 2 — Filtering, Sorting & Distinct
+
+### What I Learned
+
+- WHERE
+- Comparison operators
+- AND
+- OR
+- NOT
+- IN
+- NOT IN
+- BETWEEN
+- LIKE
+- IS NULL
+- ORDER BY
+- ASC
+- DESC
+- DISTINCT
+- TOP in SQL Server
+
+### What I Built
+
+- Practiced filtering customers
+- Practiced filtering products
+- Practiced price ranges
+- Practiced pattern matching
+- Sorted products by price
+- Retrieved unique cities
+- Used TOP to find highest-value records
+
+### Tasks Completed
+
+- Filtered customers by city and age
+- Filtered products by price and category
+- Used IN and BETWEEN
+- Used LIKE for name searches
+- Sorted data
+- Found distinct values
+- Used TOP with ORDER BY
+- Completed the business challenge
+
+### Status
+
+✅ Day 2 completed
