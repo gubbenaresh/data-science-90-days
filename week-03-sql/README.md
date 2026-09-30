@@ -85,3 +85,44 @@
 ### Status
 
 ✅ Day 2 completed
+
+## Day 3 — Aggregate Functions & GROUP BY
+
+### What I Learned
+
+* Aggregate functions
+* SUM()
+* COUNT()
+* AVG()
+* MIN()
+* MAX()
+* GROUP BY
+* GROUP BY with multiple columns
+* ORDER BY with aggregated results
+
+### What I Built
+
+* Calculated total revenue
+* Calculated total transactions
+* Calculated average sales
+* Found minimum and maximum sales
+* Calculated sales by customer
+* Calculated transactions by customer
+* Calculated revenue by product
+* Sorted grouped results by revenue
+
+### Tasks Completed
+
+* Practiced SUM()
+* Practiced COUNT()
+* Practiced AVG()
+* Practiced MIN()
+* Practiced MAX()
+* Practiced GROUP BY
+* Practiced GROUP BY with multiple columns
+* Practiced GROUP BY with ORDER BY
+* Completed the business challenge
+
+### Status
+
+✅ Day 3 completed
